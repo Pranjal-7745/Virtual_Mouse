@@ -1,0 +1,20 @@
+# Webcam settings
+CAMERA_INDEX = 0
+FRAME_WIDTH = 1280
+FRAME_HEIGHT = 720
+
+# Hand detection settings
+MAX_HANDS = 1
+DETECTION_CONFIDENCE = 0.7
+TRACKING_CONFIDENCE = 0.7
+
+# Mouse settings
+SMOOTHING = 5
+FRAME_REDUCTION = 100
+
+# Gesture thresholds
+LEFT_CLICK_THRESHOLD = 0.045
+RIGHT_CLICK_THRESHOLD = 0.045
+
+# Scroll sensitivity
+SCROLL_SENSITIVITY = 3
